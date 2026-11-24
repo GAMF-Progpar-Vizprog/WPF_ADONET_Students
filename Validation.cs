@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 	public class Validation
 	{

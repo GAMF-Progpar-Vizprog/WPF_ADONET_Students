@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
     internal class DataInfo
     {

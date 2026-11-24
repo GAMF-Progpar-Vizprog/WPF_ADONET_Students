@@ -1,9 +1,9 @@
 ﻿using System.Configuration;
 using System.Data.SqlClient;
 using System.Windows;
-using WPFAN_Students.dsStudentsTableAdapters;
+using WPF_ADONET_Students.dsStudentsTableAdapters;
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 	public partial class MainWindow : Window
 	{

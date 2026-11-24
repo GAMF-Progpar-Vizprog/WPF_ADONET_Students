@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace WPFAN_Students {
+namespace WPF_ADONET_Students {
     
     
     /// <summary>
@@ -1107,7 +1107,7 @@ namespace WPFAN_Students {
         }
     }
 }
-namespace WPFAN_Students.dsStudentsTableAdapters {
+namespace WPF_ADONET_Students.dsStudentsTableAdapters {
     
     
     /// <summary>

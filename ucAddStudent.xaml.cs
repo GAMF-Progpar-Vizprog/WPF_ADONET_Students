@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 	/// <summary>
 	/// Interaction logic for ucAddStudent.xaml

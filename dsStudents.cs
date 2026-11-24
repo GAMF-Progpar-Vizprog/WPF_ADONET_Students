@@ -1,27 +1,27 @@
-﻿namespace WPFAN_Students
+﻿namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
 
-namespace WPFAN_Students
+namespace WPF_ADONET_Students
 {
 }
